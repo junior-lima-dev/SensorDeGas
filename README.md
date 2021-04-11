@@ -8,7 +8,7 @@
 ## Projeto
  Protótipo virtual que simula a detecção de vazamento de gás em uma cozinha. 
  
- ## Projeto
+ ## Divisão de Atividades
  Todos as mudanças implementadas forem feitas em conjunto com os 3 membros da equipe.
 
 ## Video Explicativo no YOUTUBE:
